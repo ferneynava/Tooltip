@@ -1,0 +1,27 @@
+tool-tip{
+    position: absolute;
+    z-index: 1;
+    pointer-events: none;
+    user-select: none;
+
+    box-shadow: 0 0 10px #000;
+    padding: .5rem 1rem;
+    font-size: .8rem;
+    border-radius: 8px;
+
+    top: 100%;
+    left: 12.5%;
+
+    opacity: 0;
+    transition: opacity .3s ease; 
+}
+
+:has(> tool-tip){  /* :has todos los elementos que tengan como hijo un tool-tip tendran un position: relative */
+    position: relative;
+} 
+
+:has(> tool-tip):hover tool-tip{  /* Cuando al elemento que tiene el tool-tip se le haga hover vamos a hacer que el tool-tip tenga opacity:1 */
+    opacity: 1;
+} 
+
+
