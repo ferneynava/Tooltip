@@ -15,12 +15,9 @@
 <br />
 <div align="center">
   <a href="https://github.com/ferneynava/Tooltip">
-    <script src="https://cdn.lordicon.com/qjzruarw.js"></script>
-    <lord-icon
-    src="https://cdn.lordicon.com/ttioogfl.json"
-    trigger="morph"
-    style="width:250px;height:250px">
-    </lord-icon>
+    <picture>
+      <source srcset="./imagenes/112-book-morph-lineal.webp" type="image/webp">
+    </picture>
   </a>
 
   <h3 align="center">Best-README-Template</h3>
