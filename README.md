@@ -15,9 +15,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ferneynava/Tooltip">
-    <picture>
-      <source srcset="./imagenes/112-book-morph-lineal.webp" type="image/webp">
-    </picture>
+    <img src="./imagenes/112-book-morph-lineal.gif" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
