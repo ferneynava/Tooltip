@@ -15,7 +15,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ferneynava/Tooltip">
-    <img src="./imagenes/112-book-morph-linealtrans.gif" alt="Logo" width="80" height="80">
+    <img src="./imagenes/112-book-morph-linealtrans.gif" alt="Logo" width="90" height="90">
   </a>
 
   <h3 align="center">Tooltip</h3>
